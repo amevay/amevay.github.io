@@ -1,0 +1,38 @@
+@font-face { font-family: AG-Light; src: url('AktivGrotesk-Light.ttf'); }
+a:link {
+  color: #6C6662;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #6C6662;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #6C6662;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #6C6662;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+body {
+	font-family: AG-Light, Tahoma, Geneva, sans-serif;
+	color: #6C6662;
+}
+/*
+h1 {
+  color: blue;
+}
+p {
+	font-family: AG-Light, Tahoma, Geneva, sans-serif;
+	color: #6C6662;
+}
+*/
