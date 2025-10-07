@@ -35,6 +35,8 @@
 	<li><a href="#music">Music?</a></li>
 	<li><a href="#dindin">What's for dinner?</a></li>
 	<li><a href="#dietary">Can you accommodate dietary restrictions?</a></li>
+	<li><a href="#short">Can I stay at Sparrows for two nights?</a></li>
+	<li><a href="#elsewhere">Can I stay elsewhere?</a></li>
 	<li><a href="#apostrophe">Shouldn't there be an apostrophe in "Sparrows"?</a></li>
 </ul>
 
@@ -127,6 +129,16 @@ The salt water pool will be heated, and there's also a hot tub and fire pit.  <a
 <div id="dietary">
 <h3>Can you accommodate dietary restrictions?</h3>
 <p>We are currently planning menus and are unsure at this time whether we will be able to accommodate dietary restrictions.  <a href="#top">^</a></p>
+</div>
+
+<div id="short">
+<h3>Can I stay at Sparrows for two nights?</h3>
+<p>Sparrows is available for bookings of 3 nights (11/20-23) or longer.  Although Thursday night may feel "extra", we hope it will allow us and our guests to fully arrive and relax in time for the festivities.<a href="#top">^</a></p>
+</div>
+
+<div id="elsewhere">
+<h3>Can I stay elsewhere?</h3>
+<p>Yes, but we hope you will join us at Sparrows.  <a href="#top">^</a></p>
 </div>
 
 <div id="apostrophe">
